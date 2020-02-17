@@ -25,9 +25,11 @@ export default function useResource(fetchFunction, functionArgs= [], shouldAutom
             const result = await fetchFunction(...functionArgs);
             setResult(result);
             setStatus(ResourceStatuses.SUCCESS);
+            return result;
         } catch (error) {
             setError(error);
             setStatus(ResourceStatuses.FAILURE);
+            return error;
         }
     }
 

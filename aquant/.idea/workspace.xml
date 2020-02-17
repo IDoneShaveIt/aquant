@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a667a1a-fb17-419c-b922-02167daf09bd" name="Default Changelist" comment="" />
+    <list default="true" id="2a667a1a-fb17-419c-b922-02167daf09bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CoordinatesList/CoordinatesList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vector/.idea/vector.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/mainApp/MainApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mainApp/MainApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/mapView/MapView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mapView/MapView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/useResource.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/useResource.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XtGNoGUOskBYAYFPPBRjmBa1tI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -47,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581857939439</updated>
       <workItem from="1581857950323" duration="29241000" />
-      <workItem from="1581947338321" duration="12106000" />
+      <workItem from="1581947338321" duration="16098000" />
     </task>
     <servers />
   </component>
