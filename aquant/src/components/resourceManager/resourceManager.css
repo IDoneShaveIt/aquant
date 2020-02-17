@@ -1,0 +1,9 @@
+.loading-component {
+    justify-self: center;
+    color: #a89a30;
+}
+
+.error-component {
+    justify-self: center;
+    color: #ff312c;
+}
